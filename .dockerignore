@@ -1,0 +1,33 @@
+#### Node.js
+node_modules/
+.env
+.env.production
+.env.development
+.env.local
+package-lock.json
+
+#### Python
+__pycache__/
+.env
+.env.production
+.env.development
+.env.local
+.pytest_cache/
+venv/
+
+#### .NET
+bin/
+Debug/
+obj/
+packages/
+*.suo
+*.csproj.user
+*.sln.cache
+
+#### C#
+bin/
+Debug/
+obj/
+packages/
+*.csproj.user
+*.sln.cache
